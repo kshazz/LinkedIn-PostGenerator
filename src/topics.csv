@@ -1,0 +1,55 @@
+Id,Title,IsPosted
+1,Database-per-tenant vs. Shared Schema in EF Core,false
+2,Leveraging C# 14 field keyword for cleaner Properties,false
+3,Designing Idempotent Web APIs for Distributed Systems,false
+4,Implementing Azure Managed Identity for Web App to SQL,false
+5,Strategies for Zero-Downtime Tenant Migrations,false
+6,Using C# Interceptors for Global Performance Logging,false
+7,Solving the Noisy Neighbor problem in Multi-tenant APIs,false
+8,Benchmarking Span<T> vs string in high-load parsers,false
+9,Designing Modular Monoliths before Microservices,false
+10,Optimizing Azure Service Bus throughput with Batching,false
+11,Handling Tenant-Specific Authentication with JWT Claims,false
+12,Using Required members and Primary Constructors in .NET 10,false
+13,Global Exception Handling vs. The Result Pattern in C#,false
+14,Scaling Multi-tenant apps with Azure Elastic Database Pools,false
+15,Why I stopped using Automapper in large-scale projects,false
+16,Middleware for Tenant-based Rate Limiting in ASP.NET Core,false
+17,Implementing Circuit Breaker pattern with Polly in .NET 10,false
+18,The Tech Lead's guide to Architecture Decision Records (ADRs),false
+19,Static Extension Members in C# 14: Improving API Discoverability,false
+20,Using Azure Event Grid for Cross-Tenant workflows,false
+21,Refactoring Legacy .NET Framework to Cloud-Native .NET,false
+22,Benchmarking JSON Serialization: System.Text.Json vs. Source Gens,false
+23,Designing Soft Delete filters per Tenant in EF Core,false
+24,The Anti-Corruption Layer for Integrating Legacy APIs,false
+25,Moving from Azure Functions to Azure Container Apps (ACA),false
+26,Using SearchValues<T> for high-performance string lookups,false
+27,Managing Tech Debt: When to refactor vs. when to ship,false
+28,Custom Dependency Injection scopes for Multi-tenant services,false
+29,Implementing Health Checks for Distributed Azure Systems,false
+30,Why C# 14 Extension Properties change how we view Domain Models,false
+31,Implementing Row-Level Security (RLS) in multi-tenant PostgreSQL,false
+32,Leveraging .NET Aspire for local microservices orchestration,false
+33,Using C# 14 Null-Conditional Assignment in event handlers,false
+34,Designing a Tenant-Aware Cache Strategy with Redis,false
+35,Azure App Configuration: Managing Feature Flags for specific Tenants,false
+36,The shift to Vertical Slice Architecture in .NET 10,false
+37,Mastering the field keyword for validation logic in DTOs,false
+38,Azure Container Apps: Scaling based on custom KEDA metrics,false
+39,Implementing 'Shadow Properties' in EF Core for Audit Logs,false
+40,Using Azure Front Door for multi-region tenant routing,false
+41,Designing 'Outbox Pattern' for reliable event-driven systems,false
+42,Why I prefer Result<T> over Exceptions for business logic,false
+43,Azure Cost Optimization: FinOps strategies for SaaS Tech Leads,false
+44,Implementing Tenant-Specific Branding via Middleware,false
+45,C# 14 Static Extensions: Bringing 'Identity' to Enumerable types,false
+46,Using 'Source Generators' to eliminate boilerplate reflection,false
+47,Azure Key Vault: Rotating secrets without application downtime,false
+48,Designing Multi-tenant Dashboards: Performance at scale,false
+49,Refactoring to 'Primary Constructors' in existing .NET codebases,false
+50,Using 'FrozenDictionary' for high-frequency configuration lookups,false
+51,The importance of 'Architecture Tests' using NetArchTest,false
+52,Azure Service Bus: Dead-letter queue handling strategies,false
+53,Implementing 'Soft Deletes' that don't break unique indexes,false
+54,Using 'SearchValues' for super-fast character set validation,false
