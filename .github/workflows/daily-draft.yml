@@ -29,8 +29,8 @@ jobs:
           SENDER_PASSWORD: ${{ secrets.SENDER_PASSWORD }}
           RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
         run: |
-          dotnet restore
-          dotnet run --project LinkedInPublisher.csproj
+          dotnet restore src/LinkedInPublisher.csproj
+          dotnet run --project src/LinkedInPublisher.csproj
 
       - name: Commit and Push CSV Update
         run: |
