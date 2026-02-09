@@ -1,0 +1,41 @@
+name: Daily LinkedIn Draft Email
+
+on:
+  schedule:
+    # This runs at 06:30 AM UTC every day
+    - cron: '30 6 * * *'
+  workflow_dispatch: # Allows you to run it manually for testing
+
+jobs:
+  build-and-send:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          # Required to push the updated CSV back to the repo
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '8.0.x'
+
+      - name: Restore and Run Agent
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
+          SENDER_PASSWORD: ${{ secrets.SENDER_PASSWORD }}
+          RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
+        run: |
+          dotnet restore
+          dotnet run --project LinkedInPublisher.csproj
+
+      - name: Commit and Push CSV Update
+        run: |
+          git config --global user.name 'BinaryDrop Automation'
+          git config --global user.email 'bot@binarydrop.com'
+          git add topics.csv
+          # Only commit if there are changes to prevent workflow failure
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: mark topic as posted" && git push)
