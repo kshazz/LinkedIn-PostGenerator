@@ -93,7 +93,7 @@ try
         Body = $"Review your generated post below:\n\n---\n\n{postText}\n\n---\n\nSent via BinaryDrop Automation.",
         IsBodyHtml = false
     };
-    mail.To.Add(ecipientEmail!);
+    mail.To.Add(recipientEmail!);
 
     await smtpClient.SendMailAsync(mail);
     Console.WriteLine($"📧 Draft sent successfully for: {nextTopic.Title}");
