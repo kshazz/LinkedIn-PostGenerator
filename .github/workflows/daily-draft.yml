@@ -36,6 +36,13 @@ jobs:
         run: |
           git config --global user.name 'BinaryDrop Automation'
           git config --global user.email 'bot@binarydrop.com'
-          git add topics.csv
-          # Only commit if there are changes to prevent workflow failure
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: mark topic as posted" && git push)
+          
+          # Use the relative path from the root
+          git add src/topics.csv 
+          
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: mark topic as posted [skip ci]"
+            git push
+          fi
