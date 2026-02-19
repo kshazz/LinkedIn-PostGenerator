@@ -1,7 +1,7 @@
 Id,Title,IsPosted
 1,Database-per-tenant vs. Shared Schema in EF Core,True
 2,Leveraging C# 14 field keyword for cleaner Properties,True
-3,Designing Idempotent Web APIs for Distributed Systems,False
+3,Designing Idempotent Web APIs for Distributed Systems,True
 4,Implementing Azure Managed Identity for Web App to SQL,False
 5,Strategies for Zero-Downtime Tenant Migrations,False
 6,Using C# Interceptors for Global Performance Logging,False
@@ -53,4 +53,3 @@ Id,Title,IsPosted
 52,Azure Service Bus: Dead-letter queue handling strategies,False
 53,Implementing 'Soft Deletes' that don't break unique indexes,False
 54,Using 'SearchValues' for super-fast character set validation,False
-
