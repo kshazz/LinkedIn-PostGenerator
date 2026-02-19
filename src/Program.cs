@@ -12,7 +12,7 @@ var appPassword = Environment.GetEnvironmentVariable("SENDER_PASSWORD");
 var recipientEmail = Environment.GetEnvironmentVariable("RECIPIENT_EMAIL") ?? senderEmail;
 string csvPath = "topics.csv";
 
-string csvPath = Path.Combine(AppContext.BaseDirectory, "topics.csv");
+csvPath = Path.Combine(AppContext.BaseDirectory, "topics.csv");
 if (!File.Exists(csvPath)) 
 {
     // Look up for the root folder if running in local debug mode
