@@ -12,6 +12,13 @@ var appPassword = Environment.GetEnvironmentVariable("SENDER_PASSWORD");
 var recipientEmail = Environment.GetEnvironmentVariable("RECIPIENT_EMAIL") ?? senderEmail;
 string csvPath = "topics.csv";
 
+string csvPath = Path.Combine(AppContext.BaseDirectory, "topics.csv");
+if (!File.Exists(csvPath)) 
+{
+    // Look up for the root folder if running in local debug mode
+    csvPath = Path.GetFullPath(Path.Combine(AppContext.BaseDirectory, "..", "..", "..", "topics.csv"));
+}
+
 if (string.IsNullOrWhiteSpace(geminiKey) || string.IsNullOrWhiteSpace(senderEmail) || string.IsNullOrWhiteSpace(appPassword))
 {
     Console.WriteLine("❌ Configuration Error: Missing GEMINI_API_KEY, SENDER_EMAIL, or SENDER_PASSWORD.");
