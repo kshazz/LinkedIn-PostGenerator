@@ -2,7 +2,7 @@ Id,Title,IsPosted
 1,Database-per-tenant vs. Shared Schema in EF Core,True
 2,Leveraging C# 14 field keyword for cleaner Properties,True
 3,Designing Idempotent Web APIs for Distributed Systems,True
-4,Implementing Azure Managed Identity for Web App to SQL,False
+4,Implementing Azure Managed Identity for Web App to SQL,True
 5,Strategies for Zero-Downtime Tenant Migrations,False
 6,Using C# Interceptors for Global Performance Logging,False
 7,Solving the Noisy Neighbor problem in Multi-tenant APIs,False
