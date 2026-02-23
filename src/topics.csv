@@ -5,7 +5,7 @@ Id,Title,IsPosted
 4,Implementing Azure Managed Identity for Web App to SQL,True
 5,Strategies for Zero-Downtime Tenant Migrations,True
 6,Using C# Interceptors for Global Performance Logging,True
-7,Solving the Noisy Neighbor problem in Multi-tenant APIs,False
+7,Solving the Noisy Neighbor problem in Multi-tenant APIs,True
 8,Benchmarking Span<T> vs string in high-load parsers,False
 9,Designing Modular Monoliths before Microservices,False
 10,Optimizing Azure Service Bus throughput with Batching,False
