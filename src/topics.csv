@@ -7,7 +7,7 @@ Id,Title,IsPosted
 6,Using C# Interceptors for Global Performance Logging,True
 7,Solving the Noisy Neighbor problem in Multi-tenant APIs,True
 8,Benchmarking Span<T> vs string in high-load parsers,True
-9,Designing Modular Monoliths before Microservices,False
+9,Designing Modular Monoliths before Microservices,True
 10,Optimizing Azure Service Bus throughput with Batching,False
 11,Handling Tenant-Specific Authentication with JWT Claims,False
 12,Using Required members and Primary Constructors in .NET 10,False
