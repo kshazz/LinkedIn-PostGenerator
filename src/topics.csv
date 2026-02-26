@@ -8,7 +8,7 @@ Id,Title,IsPosted
 7,Solving the Noisy Neighbor problem in Multi-tenant APIs,True
 8,Benchmarking Span<T> vs string in high-load parsers,True
 9,Designing Modular Monoliths before Microservices,True
-10,Optimizing Azure Service Bus throughput with Batching,False
+10,Optimizing Azure Service Bus throughput with Batching,True
 11,Handling Tenant-Specific Authentication with JWT Claims,False
 12,Using Required members and Primary Constructors in .NET 10,False
 13,Global Exception Handling vs. The Result Pattern in C#,False
