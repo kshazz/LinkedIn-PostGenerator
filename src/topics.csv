@@ -12,7 +12,7 @@ Id,Title,IsPosted
 11,Handling Tenant-Specific Authentication with JWT Claims,True
 12,Using Required members and Primary Constructors in .NET 10,True
 13,Global Exception Handling vs. The Result Pattern in C#,True
-14,Scaling Multi-tenant apps with Azure Elastic Database Pools,False
+14,Scaling Multi-tenant apps with Azure Elastic Database Pools,True
 15,Why I stopped using Automapper in large-scale projects,False
 16,Middleware for Tenant-based Rate Limiting in ASP.NET Core,False
 17,Implementing Circuit Breaker pattern with Polly in .NET 10,False
