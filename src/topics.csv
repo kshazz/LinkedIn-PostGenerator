@@ -13,7 +13,7 @@ Id,Title,IsPosted
 12,Using Required members and Primary Constructors in .NET 10,True
 13,Global Exception Handling vs. The Result Pattern in C#,True
 14,Scaling Multi-tenant apps with Azure Elastic Database Pools,True
-15,Why I stopped using Automapper in large-scale projects,False
+15,Why I stopped using Automapper in large-scale projects,True
 16,Middleware for Tenant-based Rate Limiting in ASP.NET Core,False
 17,Implementing Circuit Breaker pattern with Polly in .NET 10,False
 18,The Tech Lead's guide to Architecture Decision Records (ADRs),False
