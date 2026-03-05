@@ -15,7 +15,7 @@ Id,Title,IsPosted
 14,Scaling Multi-tenant apps with Azure Elastic Database Pools,True
 15,Why I stopped using Automapper in large-scale projects,True
 16,Middleware for Tenant-based Rate Limiting in ASP.NET Core,True
-17,Implementing Circuit Breaker pattern with Polly in .NET 10,False
+17,Implementing Circuit Breaker pattern with Polly in .NET 10,True
 18,The Tech Lead's guide to Architecture Decision Records (ADRs),False
 19,Static Extension Members in C# 14: Improving API Discoverability,False
 20,Using Azure Event Grid for Cross-Tenant workflows,False
