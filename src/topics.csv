@@ -17,7 +17,7 @@ Id,Title,IsPosted
 16,Middleware for Tenant-based Rate Limiting in ASP.NET Core,True
 17,Implementing Circuit Breaker pattern with Polly in .NET 10,True
 18,The Tech Lead's guide to Architecture Decision Records (ADRs),True
-19,Static Extension Members in C# 14: Improving API Discoverability,False
+19,Static Extension Members in C# 14: Improving API Discoverability,True
 20,Using Azure Event Grid for Cross-Tenant workflows,False
 21,Refactoring Legacy .NET Framework to Cloud-Native .NET,False
 22,Benchmarking JSON Serialization: System.Text.Json vs. Source Gens,False
