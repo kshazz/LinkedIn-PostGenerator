@@ -18,7 +18,7 @@ Id,Title,IsPosted
 17,Implementing Circuit Breaker pattern with Polly in .NET 10,True
 18,The Tech Lead's guide to Architecture Decision Records (ADRs),True
 19,Static Extension Members in C# 14: Improving API Discoverability,True
-20,Using Azure Event Grid for Cross-Tenant workflows,False
+20,Using Azure Event Grid for Cross-Tenant workflows,True
 21,Refactoring Legacy .NET Framework to Cloud-Native .NET,False
 22,Benchmarking JSON Serialization: System.Text.Json vs. Source Gens,False
 23,Designing Soft Delete filters per Tenant in EF Core,False
