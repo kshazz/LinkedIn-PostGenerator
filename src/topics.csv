@@ -19,7 +19,7 @@ Id,Title,IsPosted
 18,The Tech Lead's guide to Architecture Decision Records (ADRs),True
 19,Static Extension Members in C# 14: Improving API Discoverability,True
 20,Using Azure Event Grid for Cross-Tenant workflows,True
-21,Refactoring Legacy .NET Framework to Cloud-Native .NET,False
+21,Refactoring Legacy .NET Framework to Cloud-Native .NET,True
 22,Benchmarking JSON Serialization: System.Text.Json vs. Source Gens,False
 23,Designing Soft Delete filters per Tenant in EF Core,False
 24,The Anti-Corruption Layer for Integrating Legacy APIs,False
