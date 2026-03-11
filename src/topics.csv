@@ -21,7 +21,7 @@ Id,Title,IsPosted
 20,Using Azure Event Grid for Cross-Tenant workflows,True
 21,Refactoring Legacy .NET Framework to Cloud-Native .NET,True
 22,Benchmarking JSON Serialization: System.Text.Json vs. Source Gens,True
-23,Designing Soft Delete filters per Tenant in EF Core,False
+23,Designing Soft Delete filters per Tenant in EF Core,True
 24,The Anti-Corruption Layer for Integrating Legacy APIs,False
 25,Moving from Azure Functions to Azure Container Apps (ACA),False
 26,Using SearchValues<T> for high-performance string lookups,False
