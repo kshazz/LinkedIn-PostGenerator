@@ -22,7 +22,7 @@ Id,Title,IsPosted
 21,Refactoring Legacy .NET Framework to Cloud-Native .NET,True
 22,Benchmarking JSON Serialization: System.Text.Json vs. Source Gens,True
 23,Designing Soft Delete filters per Tenant in EF Core,True
-24,The Anti-Corruption Layer for Integrating Legacy APIs,False
+24,The Anti-Corruption Layer for Integrating Legacy APIs,True
 25,Moving from Azure Functions to Azure Container Apps (ACA),False
 26,Using SearchValues<T> for high-performance string lookups,False
 27,Managing Tech Debt: When to refactor vs. when to ship,False
