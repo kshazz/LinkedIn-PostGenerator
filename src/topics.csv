@@ -25,7 +25,7 @@ Id,Title,IsPosted
 24,The Anti-Corruption Layer for Integrating Legacy APIs,True
 25,Moving from Azure Functions to Azure Container Apps (ACA),True
 26,Using SearchValues<T> for high-performance string lookups,True
-27,Managing Tech Debt: When to refactor vs. when to ship,False
+27,Managing Tech Debt: When to refactor vs. when to ship,True
 28,Custom Dependency Injection scopes for Multi-tenant services,False
 29,Implementing Health Checks for Distributed Azure Systems,False
 30,Why C# 14 Extension Properties change how we view Domain Models,False
