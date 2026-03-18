@@ -28,7 +28,7 @@ Id,Title,IsPosted
 27,Managing Tech Debt: When to refactor vs. when to ship,True
 28,Custom Dependency Injection scopes for Multi-tenant services,True
 29,Implementing Health Checks for Distributed Azure Systems,True
-30,Why C# 14 Extension Properties change how we view Domain Models,False
+30,Why C# 14 Extension Properties change how we view Domain Models,True
 31,Implementing Row-Level Security (RLS) in multi-tenant PostgreSQL,False
 32,Leveraging .NET Aspire for local microservices orchestration,False
 33,Using C# 14 Null-Conditional Assignment in event handlers,False
