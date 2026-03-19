@@ -29,7 +29,7 @@ Id,Title,IsPosted
 28,Custom Dependency Injection scopes for Multi-tenant services,True
 29,Implementing Health Checks for Distributed Azure Systems,True
 30,Why C# 14 Extension Properties change how we view Domain Models,True
-31,Implementing Row-Level Security (RLS) in multi-tenant PostgreSQL,False
+31,Implementing Row-Level Security (RLS) in multi-tenant PostgreSQL,True
 32,Leveraging .NET Aspire for local microservices orchestration,False
 33,Using C# 14 Null-Conditional Assignment in event handlers,False
 34,Designing a Tenant-Aware Cache Strategy with Redis,False
