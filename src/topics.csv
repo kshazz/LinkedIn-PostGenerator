@@ -30,7 +30,7 @@ Id,Title,IsPosted
 29,Implementing Health Checks for Distributed Azure Systems,True
 30,Why C# 14 Extension Properties change how we view Domain Models,True
 31,Implementing Row-Level Security (RLS) in multi-tenant PostgreSQL,True
-32,Leveraging .NET Aspire for local microservices orchestration,False
+32,Leveraging .NET Aspire for local microservices orchestration,True
 33,Using C# 14 Null-Conditional Assignment in event handlers,False
 34,Designing a Tenant-Aware Cache Strategy with Redis,False
 35,Azure App Configuration: Managing Feature Flags for specific Tenants,False
