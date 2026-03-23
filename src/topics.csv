@@ -33,7 +33,7 @@ Id,Title,IsPosted
 32,Leveraging .NET Aspire for local microservices orchestration,True
 33,Using C# 14 Null-Conditional Assignment in event handlers,True
 34,Designing a Tenant-Aware Cache Strategy with Redis,True
-35,Azure App Configuration: Managing Feature Flags for specific Tenants,False
+35,Azure App Configuration: Managing Feature Flags for specific Tenants,True
 36,The shift to Vertical Slice Architecture in .NET 10,False
 37,Mastering the field keyword for validation logic in DTOs,False
 38,Azure Container Apps: Scaling based on custom KEDA metrics,False
