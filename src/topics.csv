@@ -38,7 +38,7 @@ Id,Title,IsPosted
 37,Mastering the field keyword for validation logic in DTOs,True
 38,Azure Container Apps: Scaling based on custom KEDA metrics,True
 39,Implementing 'Shadow Properties' in EF Core for Audit Logs,True
-40,Using Azure Front Door for multi-region tenant routing,False
+40,Using Azure Front Door for multi-region tenant routing,True
 41,Designing 'Outbox Pattern' for reliable event-driven systems,False
 42,Why I prefer Result<T> over Exceptions for business logic,False
 43,Azure Cost Optimization: FinOps strategies for SaaS Tech Leads,False
