@@ -44,7 +44,7 @@ Id,Title,IsPosted
 43,Azure Cost Optimization: FinOps strategies for SaaS Tech Leads,True
 44,Implementing Tenant-Specific Branding via Middleware,True
 45,C# 14 Static Extensions: Bringing 'Identity' to Enumerable types,True
-46,Using 'Source Generators' to eliminate boilerplate reflection,False
+46,Using 'Source Generators' to eliminate boilerplate reflection,True
 47,Azure Key Vault: Rotating secrets without application downtime,False
 48,Designing Multi-tenant Dashboards: Performance at scale,False
 49,Refactoring to 'Primary Constructors' in existing .NET codebases,False
