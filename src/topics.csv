@@ -47,7 +47,7 @@ Id,Title,IsPosted
 46,Using 'Source Generators' to eliminate boilerplate reflection,True
 47,Azure Key Vault: Rotating secrets without application downtime,True
 48,Designing Multi-tenant Dashboards: Performance at scale,True
-49,Refactoring to 'Primary Constructors' in existing .NET codebases,False
+49,Refactoring to 'Primary Constructors' in existing .NET codebases,True
 50,Using 'FrozenDictionary' for high-frequency configuration lookups,False
 51,The importance of 'Architecture Tests' using NetArchTest,False
 52,Azure Service Bus: Dead-letter queue handling strategies,False
