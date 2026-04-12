@@ -50,6 +50,6 @@ Id,Title,IsPosted
 49,Refactoring to 'Primary Constructors' in existing .NET codebases,True
 50,Using 'FrozenDictionary' for high-frequency configuration lookups,True
 51,The importance of 'Architecture Tests' using NetArchTest,True
-52,Azure Service Bus: Dead-letter queue handling strategies,False
+52,Azure Service Bus: Dead-letter queue handling strategies,True
 53,Implementing 'Soft Deletes' that don't break unique indexes,False
 54,Using 'SearchValues' for super-fast character set validation,False
