@@ -52,4 +52,4 @@ Id,Title,IsPosted
 51,The importance of 'Architecture Tests' using NetArchTest,True
 52,Azure Service Bus: Dead-letter queue handling strategies,True
 53,Implementing 'Soft Deletes' that don't break unique indexes,True
-54,Using 'SearchValues' for super-fast character set validation,False
+54,Using 'SearchValues' for super-fast character set validation,True
